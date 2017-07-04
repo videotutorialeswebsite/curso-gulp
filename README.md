@@ -23,4 +23,6 @@ sudo apt install imagemagick graphicsmagick
 npm install --save-dev gulp-image-resize
 
 ```
+
 ## Vídeo de Youtube
+* [Re dimensionar imágenes con Gulp] - https://youtu.be/BCImCSsHQxE
